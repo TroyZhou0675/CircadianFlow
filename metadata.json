@@ -1,0 +1,5 @@
+{
+  "name": "Circadian Energy Tracker",
+  "description": "A scientific energy management tool tracking circadian rhythms using a 24-hour visual disk and Behaviorally Anchored Rating Scales (BARS).",
+  "requestFramePermissions": []
+}
